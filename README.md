@@ -46,6 +46,7 @@ Insights from this analysis are intended to guide the refinement of clinical dec
 ---
 
 ### **Key Insights**
+The analysis was performed using [SQL](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Utilization-Analysis/blob/main/Patient%20Request%20Queries.sql) and [Python](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Utilization-Analysis/blob/main/Machine%20Learning.ipynb) was used to train a model used for predictive analytics.
 
 1. **Approval Timing:**
     - Average time to approval: **2 days, 7 hours, 5 minutes**.
