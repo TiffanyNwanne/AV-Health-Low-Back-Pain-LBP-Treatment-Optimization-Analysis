@@ -1,4 +1,4 @@
-# AV Health Low Back Pain (LBP) Utilization Analysis
+# AV Health Low Back Pain (LBP) Treatment Optimization Analysis
 
 *Improving Prior Authorization Efficiency for Low Back Pain Interventions*
 
