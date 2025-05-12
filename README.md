@@ -67,7 +67,7 @@ Insights from this analysis are intended to guide the refinement of clinical dec
     - **F1-score**: ~72%
     - The model effectively flags high-risk requests based on conservative care presence, procedure type, and provider behavior and shows that age is the top factor driving denials.
         
-        ![Screenshot 2025-05-12 at 8.47.45 PM.png](AV%20Health%20Low%20Back%20Pain%20(LBP)%20Utilization%20Analysis%201f14799bb267801db009d1e08b4b5154/Screenshot_2025-05-12_at_8.47.45_PM.png)
+[![Preview image](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Utilization-Analysis/blob/main/Machine%20Learning.png)](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Utilization-Analysis/blob/main/Machine%20Learning.png)
         
 
 ---
