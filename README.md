@@ -35,7 +35,7 @@ Inappropriate sequencing of treatments and delays in authorization not only infl
 
 ### **Executive Summary**
 
-![Week 1 Dashboard.png](AV%20Health%20Low%20Back%20Pain%20(LBP)%20Utilization%20Analysis%201f14799bb267801db009d1e08b4b5154/Week_1_Dashboard.png)
+[![Preview Image](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Utilization-Analysis/blob/main/Dashboard.png)](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Utilization-Analysis/blob/main/Dashboard.png)
 
 This analysis assessed utilization and approval patterns for LBP-related prior authorization requests, focusing on timing, appropriateness of care, and denial drivers. A total of key metrics were evaluated, including time to approval, denial rates, and presence of conservative care.
 
