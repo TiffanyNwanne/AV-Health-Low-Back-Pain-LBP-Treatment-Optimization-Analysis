@@ -29,11 +29,10 @@ Inappropriate sequencing of treatments and delays in authorization not only infl
 
 [![Preview Image](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Utilization-Analysis/blob/main/Dashboard.png)](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Utilization-Analysis/blob/main/Dashboard.png)
 
-This analysis assessed utilization and approval patterns for LBP-related prior authorization requests, focusing on timing, appropriateness of care, and denial drivers. A total of key metrics were evaluated, including time to approval, denial rates, and presence of conservative care.
+Findings show an average approval time of approximately 2.3 days (2 days, 7 hours, and 5 minutes), with 19% of requests ultimately denied. The presence of prior conservative care was a significant determinant of approval: patients with such care were 50% more likely to be approved compared to those without it. This trend aligns with clinical expectations and highlights the importance of care sequencing in the review process.
 
-The predictive model achieved strong performance with an **accuracy of ~82%**, effectively identifying cases likely to be denied. Notably, **requests lacking conservative care were over 3x more likely to be denied**, reinforcing clinical guidelines around care sequencing.
+Procedure-specific analysis revealed that while MRI/lumbar spine requests made up the largest share of cases (41%), spinal fusion procedures—though less common (9%)—had the longest average approval time at 2.6 days. In contrast, laminectomies had the shortest average approval time of 1.98 days. Age patterns also emerged, with patients around 55 years showing the highest likelihood of having had conservative care, while those near 35 and 65 were least likely.
 
-Insights from this analysis are intended to guide the refinement of clinical decision workflows, align provider practices with best evidence, and support real-time decision-making through integrated dashboards and risk scoring.
 
 ---
 
