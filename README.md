@@ -36,8 +36,7 @@ Procedure-specific analysis revealed that while MRI/lumbar spine requests made u
 ---
 
 ### Insights
-The analysis was performed using [SQL](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Utilization-Analysis/blob/main/Patient%20Request%20Queries.sql) and [Python](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Utilization-Analysis/blob/main/Machine%20Learning.ipynb) was used to train a model used for predictive analytics.
-
+The analysis was performed using [SQL](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/Patient%20Request%20Queries%20(PostgreSQL).sql) and here are the insights.
 
 **1. What is the average time to approval?**
 
