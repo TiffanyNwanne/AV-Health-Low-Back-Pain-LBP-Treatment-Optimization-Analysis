@@ -40,15 +40,19 @@ The analysis was performed using [SQL](https://github.com/TiffanyNwanne/AV-Healt
 
 
 **1. What is the average time to approval?**
+
 The average time to approval is 2.295 days, which equates to approximately 2 days, 7 hours, and 5 minutes.
+
 [![Preview Image](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/1.png)](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/1.png)
 
 
 2. What percentage of cases were denied?
+
 19% of all prior authorization requests were denied.
 [![Preview Image](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/2.png)](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/2.png)
 
 3. How does approval time vary by procedure code or provider type?
+
 By Procedure Code:
 
 Spinal Fusion: Longest approval time – 2.60 days.
@@ -58,6 +62,7 @@ Laminectomy: Shortest approval time – 1.98 days.
 MRI/Lumbar Spine and Spinal Injections fall between these extremes, with exact times not listed but faster than spinal fusion.
 
 [![Preview Image](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/3.png)](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/3.png)
+
 
 By Provider Type:
 
