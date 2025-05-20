@@ -21,7 +21,6 @@ Inappropriate sequencing of treatments and delays in authorization not only infl
 3. How does approval time vary by procedure code or provider type?
 4. What percentage of patients received conservative care prior to the requested procedure?
 5. Are patients without conservative care more likely to be denied?
-6. Can a model be developed to flag high-risk or inappropriate requests?
 
 ---
 
@@ -94,16 +93,6 @@ This indicates that patients without conservative care were over 3 times more li
 
 
 
-4. **Predictive Modeling:**
-    - **Accuracy**: ~82%
-    - **Precision**: ~76%
-    - **Recall (Denials)**: ~70%
-    - **F1-score**: ~72%
-    - The model effectively flags high-risk requests based on conservative care presence, procedure type, and provider behavior and shows that age is the top factor driving denials.
-        
-[![Preview image](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Utilization-Analysis/blob/main/Machine%20Learning.png)](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Utilization-Analysis/blob/main/Machine%20Learning.png)
-        
-
 ---
 
 ### **Answers to Stakeholder Questions**
@@ -115,7 +104,7 @@ This indicates that patients without conservative care were over 3 times more li
 | Approval time by procedure/provider? | Spinal fusion = longest; Laminectomy = shortest; MRI = 41% of all procedures |
 | % with prior conservative care? | 40% |
 | Is conservative care linked to approvals? | Yes – 48% of approved had conservative care; 3x denial risk without it |
-| Can high-risk requests be predicted? | Yes – Model achieves ~82% accuracy and flags denials effectively |
+
 
 ---
 
