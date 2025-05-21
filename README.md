@@ -36,6 +36,7 @@ Procedure-specific analysis revealed that while MRI/lumbar spine requests made u
 ---
 
 ### Insights
+
 The analysis was performed using [SQL](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/Patient%20Request%20Queries%20(PostgreSQL).sql) and here are the insights.
 
 **1. What is the average time to approval?**
@@ -48,11 +49,13 @@ The average time to approval is 2.295 days, which equates to approximately 2 day
 2. What percentage of cases were denied?
 
 19% of all prior authorization requests were denied.
+
 [![Preview Image](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/2.png)](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/2.png)
+
 
 3. How does approval time vary by procedure code or provider type?
 
-By Procedure Code:
+**By Procedure Code:**
 
 Spinal Fusion: Longest approval time – 2.60 days.
 
@@ -63,7 +66,7 @@ MRI/Lumbar Spine and Spinal Injections fall between these extremes, with exact t
 [![Preview Image](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/3.png)](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/3.png)
 
 
-By Provider Type:
+**By Provider Type:**
 
 Neurosurgery: Longest approval time – 2.4917 days.
 
@@ -72,6 +75,7 @@ Primary Care: Shortest approval time – 2.1488 days.
 Pain Management and Orthopedic providers have intermediate approval times.
 
 [![Preview Image](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/3b.png)](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/3b.png)
+
 
 4. What percentage of patients received conservative care prior to the requested procedure?
 The exact percentage isn't explicitly stated across the entire population, but the graph shows:
@@ -82,9 +86,14 @@ The exact percentage isn't explicitly stated across the entire population, but t
 
 This suggests that approximately 60% of patients received conservative care prior to their procedure requests.
 
+
 [![Preview Image](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/4.png)](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/4.png)
 
+
+
 5. Are patients without conservative care more likely to be denied?
+
+   
 Yes.
 
 Patients without prior conservative care had a denial rate of 15% (6% denied out of 40% total).
@@ -92,6 +101,7 @@ Patients without prior conservative care had a denial rate of 15% (6% denied out
 Patients with conservative care had a lower denial rate of 13% (13% denied out of 60% total).
 
 This indicates that patients without conservative care were over 3 times more likely to be denied (15% vs. 5% of total approved), reinforcing the importance of following conservative treatment pathways prior to authorization requests.
+
 
 [![Preview Image](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/5.png)](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/5.png)
 
