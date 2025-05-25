@@ -16,7 +16,7 @@ Inappropriate sequencing of treatments and delays in authorization not only infl
 
 **Key Stakeholder Questions:**
 
-1. What is the average time to approval?
+1. What is the average time for approval?
 2. What percentage of cases were denied?
 3. How does approval time vary by procedure code or provider type?
 4. What percentage of patients received conservative care prior to the requested procedure?
@@ -46,7 +46,7 @@ The average time to approval is 2.295 days, which equates to approximately 2 day
 [![Preview Image](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/1.png)](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis/blob/main/images/1.png)
 
 
-2. What percentage of cases were denied?
+2. What percentage of procedure cases were denied?
 
 19% of all prior authorization requests were denied.
 
@@ -116,7 +116,7 @@ This indicates that patients without conservative care were over 3 times more li
 | Average time to approval? | 2 days, 7 hours, 5 minutes |
 | What % of cases were denied? | 19% |
 | Approval time by procedure/provider? | Spinal fusion = longest; Laminectomy = shortest; MRI = 41% of all procedures |
-| % with prior conservative care? | 40% |
+| % with prior conservative care? | 60% |
 | Is conservative care linked to approvals? | Yes – 48% of approved had conservative care; 3x denial risk without it |
 
 
